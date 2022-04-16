@@ -1,5 +1,15 @@
-## Olá me chamo Victor Manoel!
--Atualmente estou cursando 5º Semestre de Análise e Desenvolvimento de Sistemas!
+## Olá Me chamo Victor Manoel!
+  #
+## FORMAÇÕES ACADÊMICAS:
+- Atualmente estou cursando 5º Semestre de Análise e Desenvolvimento de Sistemas!📚
+- Pós-Graduação Segurança da Informação 🔒
+- MBA EM PRIVACIDADE E PROTEÇÃO DE DADOS (LGPD E GDPR) 🔒
+
+## Cursos:
+- Desgin UI/UX
+- DESGIN GRÁFICO
+- DATA ANALYTICS- EXCEL COM POWER BI
+
 
 <div align="center">
   <a href="https://github.com/victor2706">
