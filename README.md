@@ -9,6 +9,7 @@
 - Desgin UI/UX
 - DESGIN GRÁFICO
 - DATA ANALYTICS- EXCEL COM POWER BI
+- JavaScript e Typescript do basico ao avançado
   #
 
 <div align="center">
