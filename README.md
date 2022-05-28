@@ -1,5 +1,5 @@
 ## Olá Me chamo Victor Manoel!
-  #
+  
 ## FORMAÇÕES ACADÊMICAS:
 - Atualmente estou cursando 5º Semestre de Análise e Desenvolvimento de Sistemas!📚
 - NO MÊS DE JUNHO ESTAREI INICIANDO A GRADUAÇÃO EM DESIGNER GRÁFICO ⏳
