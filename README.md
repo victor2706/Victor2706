@@ -1,9 +1,8 @@
 ## Olá Me chamo Victor Manoel!
   
 ## FORMAÇÕES ACADÊMICAS:
-- Atualmente estou cursando 5º Semestre de Análise e Desenvolvimento de Sistemas!📚
-- NO MÊS DE JUNHO ESTAREI INICIANDO A GRADUAÇÃO EM DESIGNER GRÁFICO ⏳
-- Pós-Graduação Segurança da Informação 🔒
+- Formado em Análise e Desenvolvimento de Sistemas no Centro Universitário IESB!📚
+- Pós-Graduação Segurança da Informação ⏳
 - MBA EM PRIVACIDADE E PROTEÇÃO DE DADOS (LGPD E GDPR) 🔒
 
 ## Cursos:
