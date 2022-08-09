@@ -3,7 +3,7 @@
 ## FORMAÇÕES ACADÊMICAS:
 - Formado em Análise e Desenvolvimento de Sistemas no Centro Universitário IESB!📚
 - Pós-Graduação Segurança da Informação ⏳
--⏳🔒
+- ⏳🔒
 
 ## Cursos:
 - Desgin UI/UX
