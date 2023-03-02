@@ -4,8 +4,6 @@
   FORMAÇÃO:
 </div>
 
-  ##
-
 - Formado em Análise e Desenvolvimento de Sistemas no Centro Universitário IESB!📚
 - Pós-Graduação Segurança da Informação ⏳
 
@@ -14,8 +12,6 @@
 <div align="center">
   CURSOS:
 </div>
-
-  ##
   
 - Desgin UI/UX
 - DESGIN GRÁFICO
